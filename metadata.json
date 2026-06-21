@@ -1,0 +1,8 @@
+{
+  "name": "SportSphere",
+  "description": "SportSphere is a premium sports venue booking platform that allows court booking, real-time slot selection, and AI-powered venue insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
